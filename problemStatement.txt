@@ -1,0 +1,26 @@
+#.In order to book a flight ticket passanger's have to physically visit the ticket counter in advance that consumes both time and energy.
+
+
+# if there is overcrowd in ticket counter then people have to wait in queue for a long time and the flight might get missed that leads to the wastage of 
+seats in flight causing inefficiency.
+
+
+# Even if a passanger wants only some flight related informations like fare price, timing and routes then also he have to visit the nearby airport 
+causing unnecessary crowd, even if they provide with a helpline service then also it will not be able to handle too many requests at the same time.
+
+
+# Inability of passengers to select seat(s) for their chosen flight(s) from the existing reservation system. This has ultimately resulted in time being
+wasted at the check-in counter in assigning seats to passengers before they are allowed to board the airplane.
+
+
+# No option of passengers printing their boarding pass from the existing system.
+
+
+# Non notification of passengers in the event of flight cancellation or delays.
+
+
+# No access to aircraft maintenance reports to ease passenger fears as regards to air travel and its disasters.
+
+
+
+
