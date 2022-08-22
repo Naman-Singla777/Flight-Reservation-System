@@ -1,0 +1,9 @@
+Book a ticket
+Cancel a ticket
+Search for flights
+Get seat number for your ticket
+Any update in the flight timings
+Generate digital ticket
+Check luggage capacity of different flights
+Pricing for extra luggage weight 
+Answer a query 
