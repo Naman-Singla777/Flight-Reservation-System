@@ -1,0 +1,18 @@
+Min 2GB RAM
+512 GB storage
+500 Mbps active internet connection 
+1 TB DataBase 
+
+
+
+Payment Method 
+API for data of all current and future flights
+Data Security 
+Web Hosting
+Display Dashboard 
+Admin Panel 
+User profile
+Past flights and payments 
+Rating system for flight services 
+Active Sales, Coupons and Discouns 
+Price Chart 
