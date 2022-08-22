@@ -1,0 +1,4 @@
+PostgresQl 
+Payment API (example - RazorPay)
+API of flight service providers (example - Indigo, AirIndia, Emirates)
+Cloud Services 
